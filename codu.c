@@ -2,7 +2,7 @@ import java.io;
 import java.text;
 import java.util;
 public class StudentList {
-public static void main(String[] args) { m
+public static void main(String[] args) { m n
 //		Check arguments
 		if(args[0].equals("a"))
             {
